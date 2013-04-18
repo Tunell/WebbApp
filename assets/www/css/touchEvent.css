@@ -1,0 +1,13 @@
+.tap{display: none;}
+.tapHold{display: none;}
+.swipe{display: none;}
+.swipeLeft{display: none;}
+.swipeRight{display: none;}
+div.box {
+  width: 3em;
+  height: 3em;
+  background-color: #598611;
+}
+div.box.tap {
+  background-color: #BB6F04;
+}
